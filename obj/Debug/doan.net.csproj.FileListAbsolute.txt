@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\doan.net\doan.net\bin\Debug\doan.net.exe.config
+C:\Users\Admin\source\repos\doan.net\doan.net\bin\Debug\doan.net.exe
+C:\Users\Admin\source\repos\doan.net\doan.net\bin\Debug\doan.net.pdb
+C:\Users\Admin\source\repos\doan.net\doan.net\obj\Debug\doan.net.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\doan.net\doan.net\obj\Debug\doan.net.Properties.Resources.resources
+C:\Users\Admin\source\repos\doan.net\doan.net\obj\Debug\doan.net.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\doan.net\doan.net\obj\Debug\doan.net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\doan.net\doan.net\obj\Debug\doan.net.exe
+C:\Users\Admin\source\repos\doan.net\doan.net\obj\Debug\doan.net.pdb
+C:\Users\Admin\source\repos\doan.net\doan.net\obj\Debug\doan.net.QLNV.resources
+C:\Users\Admin\source\repos\doan.net\doan.net\obj\Debug\doan.net.CTDH.resources
